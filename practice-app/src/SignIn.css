@@ -4,7 +4,7 @@
      display: flex;
      flex-direction: column;
      margin: 40px auto;
-     max-width: 300px;
+     max-width: 320px;
      height: 500px;
      padding: 20px;
      border-radius: 6px;
@@ -78,6 +78,7 @@ height: 32px; */
      color: #312d2d;
      border: 0.02px solid gray;
      padding: 7px 80px;
+     width: 100%;
      border-radius: 5px;
      outline: none;
      font-size: 14px;
@@ -125,7 +126,7 @@ height: 32px; */
 
  .inputField {
      display: block;
-     width: 100%;
+     width: 92%;
      padding: 10px;
      font-size: 16px;
      border-radius: 5px;
@@ -138,6 +139,7 @@ height: 32px; */
      background-color: #035cec;
      color: white;
      border: none;
+     width: 93%;
      padding: 10px 126px;
      border-radius: 5px;
      font-size: 16px;
